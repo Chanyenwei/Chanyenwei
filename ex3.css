@@ -1,0 +1,34 @@
+/* class-name{
+    property:value 
+} */
+
+body{
+    background-color:rgb(132, 132, 211) ;
+}
+
+p{
+    background-color: white;
+    font-size: 20px;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    border: 2px solid crimson;
+    margin: 20px;
+}
+
+h3{
+    border: 5px solid green;
+    padding: 30px;
+}
+.new-class{
+    /* font-fmily: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    background-color: sandybrown;
+}
+
+#apple-orange{
+    color: white;
+}
